@@ -1,0 +1,15 @@
+h1,h2{
+     color:#FFFFFF;
+     text-align:center;
+     background:#666666;
+}
+details{
+          font-style:italic;
+}
+summary{
+         font-style:normal;
+}
+footer{
+         color:#0000FF;
+         background:#B3B3B3;
+}
